@@ -1,0 +1,17 @@
+/* fuentes tipograficas (sí, tres, soy diseñadora gráfica,combinar fuentes es mi trabajo)*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Syne:wght@400..800&family=Wix+Madefor+Display:wght@400..800&display=swap');
+
+/* colores
+fondo: #2c2d32
+secciones alternadas: #323338, #1b1c1f
+titulos: #fbfbfb
+aclaraciones: #F6AA1C
+texto gral: #c0c0c0
+ */
+
+/* "estilos" */
+:root{
+    --ff-titulos: "Wix Madefor Display", sans-serif;
+    --ff-aclaraciones: "Syne", sans-serif;
+    --ff-general: "Noto Sans", sans-serif;
+}
